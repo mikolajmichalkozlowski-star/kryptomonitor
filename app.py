@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # --- WPISZ PONIŻEJ SWOJE ID ARKUSZA GOOGLE ---
-SHEET_ID = "WKLEJ_TUTAJ_ID_ARKUSZA"
+SHEET_ID = "15VmI-fQTLrgoU3kpWr1zE-vD2qwO5Ir-7sVigVDgZnA"
 SHEET_NAME = "Live_Feed"
 CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv&sheet={SHEET_NAME}"
 
